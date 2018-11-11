@@ -1,11 +1,11 @@
 [Main]
-token = token value
+token = NTEwOTgwODA2MDA1NDg5Njk1.Dski0g.eNcxfTLF2IWqhbQIPwGlaqLUcLI
 ; get this ID by enabling "Developer Mode"
-channel_id = channel id
-command_prefix = ?
+channel_id =511183483335475211 
+command_prefix = US!
 ; if staff should be hidden users in replies; 'true' hides, 'false' or anything else reveales
 anonymous_staff = true
-playing = Send DM to contact staff!
+playing = Message me for help!
 
 [AntiSpam]
 ; amount of messages per seconds until the bot auto-ignores the user
